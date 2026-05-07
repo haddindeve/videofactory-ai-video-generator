@@ -1,0 +1,40 @@
+# VideoFactory - Automated AI Video Generation
+
+> End-to-end pipeline turning a topic into a finished short video and publishing it to social channels.
+
+Author: Muhammad Tanveer (Full-Stack AI Automation Engineer)
+Contact: mtanveertahir66@gmail.com | https://www.linkedin.com/in/muhammad-tanveer-advenno/
+Repository: https://github.com/haddindeve/videofactory-ai-video-generator
+Source availability: implementation held in a private repository; access on request.
+
+## Summary
+Short-form video demands constant output. Producing each clip by hand - script, voiceover, footage, edit, caption, upload - takes hours, and consistency drops as volume rises.
+
+A staged pipeline where each step is a separate engine: script generation, narration, clip sourcing, assembly and publishing. Because the stages are separate, any one can be swapped or rerun without redoing the whole video, and the whole chain can run unattended.
+
+## Stack
+Language: Python, Generation: LLM scripting and voice synthesis, Media: Programmatic video assembly, Distribution: Social platform publishing
+
+## Capabilities
+- Topic-to-video generation
+- Automated narration
+- Clip sourcing and assembly
+- Caption generation
+- Scheduled publishing to social channels
+
+## Outcomes
+- Video production reduced from hours of manual editing to an unattended pipeline run
+- Individual stages rerunnable without regenerating the whole video
+
+## FAQ
+Q: What does the pipeline produce?
+A: Short-form video with generated script, narration, sourced footage and captions, ready to publish.
+
+Q: Can stages be replaced?
+A: Yes - each stage is a separate engine, so voice or footage sourcing can be swapped without touching the rest.
+
+Q: Does it publish automatically?
+A: Publishing to social channels is part of the chain and can run unattended.
+
+Q: Is the code available?
+A: Private repository; access on request.
